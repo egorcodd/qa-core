@@ -1,0 +1,12 @@
+node_modules/
+results/
+.auth/
+allure-results/
+allure-report/
+.env
+.env.local
+*.log
+.DS_Store
+playwright-report/
+test-results/
+claude-code-prompt.md
